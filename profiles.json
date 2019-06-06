@@ -2,43 +2,43 @@
   "users": [
     {
       "id": 1,
-      "name": "Dan",
-      "image": "",
-      "quote": "i finger the G string the most",
-      "song": "",
-      "eye-color": "blue",
+      "name": "Dan Bez (aka Pineapples)",
+      "image": "/DanBezant.png",
+      "quote": "I finger the G string the most.",
+      "song": "The Thong Song by Sisqo",
+      "eye-color": "Blue",
       "age": "19",
-      "star-sign": "leo"
+      "star-sign": "Leo"
     },
     {
       "id": 2,
-      "name": "Dan",
-      "image": "",
-      "quote": "",
-      "song": "",
-      "eye-color": "",
-      "age": "",
-      "star-sign": ""
+      "name": "Dan Bridewell (aka Our Dan)",
+      "image": "/Dan Bridewell.png",
+      "quote": "I'm a pretty good winner, and a really bad loser. I like to rub it in when I win",
+      "song": "Anything by Enya",
+      "eye-color": "Pink",
+      "age": "22 and a half",
+      "star-sign": "Gemini"
     },
     {
       "id": 3,
-      "name": "Dan",
-      "image": "",
-      "quote": "",
-      "song": "",
-      "eye-color": "",
-      "age": "",
-      "star-sign": ""
+      "name": "Dan Rhodes (aka Big Dan)",
+      "image": "/Daniel Rhodes.png" ,
+      "quote": "The worst thing about Los Angeles is the traffic, it's the worst way to start the day",
+      "song": "Not really a song kind of a guy myself",
+      "eye-color": "Hazel",
+      "age": "16",
+      "star-sign": "Sagittarius"
     },
     {
       "id": 4,
-      "name": "Dan",
-      "image": "",
-      "quote": "",
-      "song": "",
-      "eye-color": "",
-      "age": "",
-      "star-sign": ""
+      "name": "Dan Van (aka Glasses)",
+      "image": "/Daniel van Ammers.png",
+      "quote": "Climate change is a problem.",
+      "song": "Mmm Mmm Mmm Mmm by Crash Test Dummies",
+      "eye-color": "Light blue",
+      "age": "32",
+      "star-sign": "Aquarius"
     }
   ]
 }

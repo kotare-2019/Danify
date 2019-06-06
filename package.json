@@ -1,5 +1,5 @@
 {
-  "name": "songify",
+  "name": "danify",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kotare-2019/Songify.git"
+    "url": "git+https://github.com/kotare-2019/Danify.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kotare-2019/Songify/issues"
+    "url": "https://github.com/kotare-2019/Danify/issues"
   },
-  "homepage": "https://github.com/kotare-2019/Songify#readme",
+  "homepage": "https://github.com/kotare-2019/Danify#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.1.0",

@@ -45,7 +45,9 @@ profileRoute.post('/edit/:id', (req, res) => {
         }  
     }
     console.log(req.body);
-    res.redirect('/profile/1');
+    fs.writeFile('profiles.json', JSON.stringify(profiles, null, 2), 'utf8', (err) => {
+        res.redirect('/profile/1');
+    })
 })
 
 

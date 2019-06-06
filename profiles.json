@@ -8,37 +8,37 @@
       "song": "",
       "eye-color": "blue",
       "age": "19",
-      "star-sign": "leo"
+      "star-sign": "Leo"
     },
     {
       "id": 2,
       "name": "Dan",
       "image": "",
-      "quote": "",
-      "song": "",
+      "quote": "That shit makes my throat hurt",
+      "song": "Yesterday by Atmosphere",
       "eye-color": "",
-      "age": "",
-      "star-sign": ""
+      "age": "22",
+      "star-sign": "Pisces"
     },
     {
       "id": 3,
       "name": "Dan",
       "image": "",
-      "quote": "",
+      "quote": "That shit makes my throat hurt",
       "song": "",
       "eye-color": "",
       "age": "",
-      "star-sign": ""
+      "star-sign": "Taurus"
     },
     {
       "id": 4,
       "name": "Dan",
       "image": "",
-      "quote": "",
+      "quote": "I beat the other Dans 3-3 at Smash Bros",
       "song": "",
       "eye-color": "",
-      "age": "",
-      "star-sign": ""
+      "age": "31",
+      "star-sign": "Cancer"
     }
   ]
 }

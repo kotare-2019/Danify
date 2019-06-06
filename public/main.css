@@ -1,12 +1,12 @@
 body {
   background-color: rgb(223, 198, 245);
   font-family: 'Kalam', cursive;
-  background-image: url(heart.png);
+  background-image: url(hearts.png);
   background-size: 100%;
-  
-}
-body{
   color: white;
+  font-family: 'Kalam', cursive;
+  
+  
 }
 
 h1 {
@@ -23,4 +23,61 @@ h2 {
 h3 {
   font-size: 39px;
   margin: 0px;
+}
+.dan-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+  padding-top: 80px
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.img-dan {
+  border: solid;
+  box-shadow: 5px 10px;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 250px;
+  height: 250px;
+  color: purple;
+}
+
+.dans {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+}
+
+.Background{
+  margin: 20px;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  border-radius: 10%;
+  padding: 10px;
+  
+}
+.nav{
+  margin: 5px;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  border-radius: 10%;
+  padding: 5px;
 }

@@ -19,6 +19,8 @@
   "homepage": "https://github.com/kotare-2019/Songify#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.1.2",
     "i": "^0.3.6",
     "jest": "^24.7.1",
     "nodemon": "^1.18.10"

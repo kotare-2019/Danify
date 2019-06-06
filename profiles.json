@@ -14,31 +14,31 @@
       "id": 2,
       "name": "Dan Bridewell (aka Our Dan)",
       "image": "/Dan Bridewell.png",
-      "quote": "I'm a pretty good winner, and a really bad loser. I like to rub it in when I win",
-      "song": "Anything by Enya",
+      "quote": "That shit makes my throat hurt",
+      "song": "Yesterday by Atmosphere",
       "eye-color": "Pink",
       "age": "22 and a half",
-      "star-sign": "Gemini"
+      "star-sign": "Pisces"
     },
     {
       "id": 3,
       "name": "Dan Rhodes (aka Big Dan)",
       "image": "/Daniel Rhodes.png" ,
-      "quote": "The worst thing about Los Angeles is the traffic, it's the worst way to start the day",
+      "quote": "That shit makes my throat hurt",
       "song": "Not really a song kind of a guy myself",
       "eye-color": "Hazel",
       "age": "16",
-      "star-sign": "Sagittarius"
+      "star-sign": "Taurus"
     },
     {
       "id": 4,
       "name": "Dan Van (aka Glasses)",
       "image": "/Daniel van Ammers.png",
-      "quote": "Climate change is a problem.",
+      "quote": "I beat the other Dans 3-3 at Smash Bros",
       "song": "Mmm Mmm Mmm Mmm by Crash Test Dummies",
       "eye-color": "Light blue",
-      "age": "32",
-      "star-sign": "Aquarius"
+      "age": "30",
+      "star-sign": "Cancer"
     }
   ]
 }

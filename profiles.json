@@ -2,35 +2,43 @@
   "users": [
     {
       "id": 1,
-      "name": "Dan",
-      "image": "",
-      "quote": "",
-      "song": "",
-      "eye-color": ""
+      "name": "Dan Bez (aka Pineapples)",
+      "image": "/DanBezant.png",
+      "quote": "I finger the G string the most.",
+      "song": "The Thong Song by Sisqo",
+      "eye-color": "Blue",
+      "age": "19",
+      "star-sign": "Leo"
     },
     {
       "id": 2,
-      "name": "Dan",
-      "image": "",
-      "quote": "",
-      "song": "",
-      "eye-color": ""
+      "name": "Dan Bridewell (aka Our Dan)",
+      "image": "/Dan Bridewell.png",
+      "quote": "That shit makes my throat hurt",
+      "song": "Yesterday by Atmosphere",
+      "eye-color": "Pink",
+      "age": "22 and a half",
+      "star-sign": "Pisces"
     },
     {
       "id": 3,
-      "name": "Dan",
-      "image": "",
-      "quote": "",
-      "song": "",
-      "eye-color": ""
+      "name": "Dan Rhodes (aka Big Dan)",
+      "image": "/Daniel Rhodes.png" ,
+      "quote": "That shit makes my throat hurt",
+      "song": "Not really a song kind of a guy myself",
+      "eye-color": "Hazel",
+      "age": "16",
+      "star-sign": "Taurus"
     },
     {
       "id": 4,
-      "name": "Dan",
-      "image": "",
-      "quote": "",
-      "song": "",
-      "eye-color": ""
+      "name": "Dan Van (aka Glasses)",
+      "image": "/Daniel van Ammers.png",
+      "quote": "I beat the other Dans 3-3 at Smash Bros",
+      "song": "Mmm Mmm Mmm Mmm by Crash Test Dummies",
+      "eye-color": "Light blue",
+      "age": "30",
+      "star-sign": "Cancer"
     }
   ]
 }

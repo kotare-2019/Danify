@@ -4,29 +4,33 @@
       "id": 1,
       "name": "Dan",
       "image": "",
-      "note": "",
-      "playlist": ""
+      "quote": "",
+      "song": "",
+      "eye-color": ""
     },
     {
       "id": 2,
       "name": "Dan",
       "image": "",
-      "note": "",
-      "playlist": []
+      "quote": "",
+      "song": "",
+      "eye-color": ""
     },
     {
       "id": 3,
       "name": "Dan",
       "image": "",
-      "note": "",
-      "playlist": []
+      "quote": "",
+      "song": "",
+      "eye-color": ""
     },
     {
       "id": 4,
       "name": "Dan",
       "image": "",
-      "note": "",
-      "playlist": []
+      "quote": "",
+      "song": "",
+      "eye-color": ""
     }
   ]
 }

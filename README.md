@@ -1,2 +1,2 @@
 # Danify
-# a collection of all Dans
+a collection of all Dans

@@ -3,7 +3,7 @@ const server = express()
 const hbs = require('express-handlebars')
 const profiles = require('./profiles')
 const { profileRoute } = require('./routes/routes')
-
+server.use(express.urlencoded({extended: true}))
 
 const profileData = {
   contents: profiles
@@ -11,7 +11,7 @@ const profileData = {
 
 
 server.use('/', profileRoute)
-server.use(express.urlencoded({extended: true}))
+
 
 
 server.get('/', (req, res) =>{
@@ -29,5 +29,6 @@ server.engine('hbs', hbs({
 
 server.set('view engine', 'hbs')
 server.use(express.static('public'))
+
 
 module.exports = server

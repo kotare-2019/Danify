@@ -1,0 +1,31 @@
+<form class='form' action='/edit/{{id}}' method='post'>
+    <img class ='img-circle' src='{{image}}' alt='{{name}}'>
+    <label for='name' class='form-key'>
+        Name:
+        <input type='text' name='name' value='{{name}}'>
+    </label>
+    <label for='quote' class='form-key'>
+        Quote:
+        <input type='text' name='quote' value='{{quote}}'>
+    </label>
+    <label for='song' class='form-key'>
+        Song:
+        <input type='text' name='song' value='{{song}}'>
+    </label>
+    <label for='eye-color' class='form-key'>
+        Eye-color:
+        <input type='text' name='eye-color' value='{{eye-color}}'>
+    </label>
+    <label for='age' class='form-key'>
+        Age:
+        <input type='text' name='age' value='{{age}}'>
+    </label>
+    <label for='star-sign' class='form-key'>
+        Star-sign:
+        <input type='text' name='star-sign' value='{{star-sign}}'>
+    </label>
+
+    <input type='hidden' name='image' value='{{image}}'>
+
+    <input type='submit' name='' value='Submit'>
+</form>

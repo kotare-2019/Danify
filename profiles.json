@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dan",
+      "image": "",
+      "note": "",
+      "playlist": ""
+    },
+    {
+      "id": 2,
+      "name": "Dan",
+      "image": "",
+      "note": "",
+      "playlist": []
+    },
+    {
+      "id": 3,
+      "name": "Dan",
+      "image": "",
+      "note": "",
+      "playlist": []
+    },
+    {
+      "id": 4,
+      "name": "Dan",
+      "image": "",
+      "note": "",
+      "playlist": []
+    }
+  ]
+}

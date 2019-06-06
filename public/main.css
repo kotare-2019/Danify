@@ -81,3 +81,30 @@ a {
   border-radius: 10%;
   padding: 5px;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+}
+
+.img-circle{
+  border: solid;
+  box-shadow: 5px 10px;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 250px;
+  height: 250px;
+  color: purple;
+}
+
+.danput {
+  margin: 20px;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  color: black;
+  border-radius: 10%;
+  padding: 10px;
+}

@@ -1,5 +1,6 @@
 <form class='form' action='/edit/{{id}}' method='post'>
     <img class ='img-circle' src='{{image}}' alt='{{name}}'>
+    <div class="danput">
     <label for='name' class='form-key'>
         Name:
         <input type='text' name='name' value='{{name}}'>
@@ -28,4 +29,5 @@
     <input type='hidden' name='image' value='{{image}}'>
 
     <input type='submit' name='' value='Submit'>
+    </div>
 </form>

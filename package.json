@@ -1,0 +1,26 @@
+{
+  "name": "songify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest index.test.js",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotare-2019/Songify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotare-2019/Songify/issues"
+  },
+  "homepage": "https://github.com/kotare-2019/Songify#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "i": "^0.3.6",
+    "jest": "^24.7.1",
+    "nodemon": "^1.18.10"
+  }
+}

@@ -4,9 +4,11 @@
       "id": 1,
       "name": "Dan",
       "image": "",
-      "quote": "",
+      "quote": "i finger the G string the most",
       "song": "",
-      "eye-color": ""
+      "eye-color": "blue",
+      "age": "19",
+      "star-sign": "leo"
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "image": "",
       "quote": "",
       "song": "",
-      "eye-color": ""
+      "eye-color": "",
+      "age": "",
+      "star-sign": ""
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "image": "",
       "quote": "",
       "song": "",
-      "eye-color": ""
+      "eye-color": "",
+      "age": "",
+      "star-sign": ""
     },
     {
       "id": 4,
@@ -30,7 +36,9 @@
       "image": "",
       "quote": "",
       "song": "",
-      "eye-color": ""
+      "eye-color": "",
+      "age": "",
+      "star-sign": ""
     }
   ]
 }

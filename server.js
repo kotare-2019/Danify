@@ -16,6 +16,7 @@ server.use(express.urlencoded({extended: true}))
 
 server.get('/', (req, res) =>{
   res.render('./dans/index', profiles)
+  console.log(profiles)
 })
 
 

@@ -1,14 +1,15 @@
 {
   "users": [
     {
+      "id": 1,
       "name": "Dan Bez (aka Pineapples)",
       "quote": "I finger the G string the most.",
       "song": "I'm Sexy and I Know it",
       "eye-color": "Blue",
       "age": "19",
       "star-sign": "Leo",
-      "image": "/DanBezant.png",
-      "id": "1"
+      "image": "/DanBezant.png"
+      
     },
     {
       "id": 2,
@@ -40,5 +41,6 @@
       "age": "30",
       "star-sign": "Cancer"
     }
-  ]
+  ],
+  "_locals": {}
 }

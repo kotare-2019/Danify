@@ -100,11 +100,26 @@ a {
 }
 
 .danput {
-  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 5px; 
   background-color: beige;
   display: flex;
   flex-direction: column;
   color: black;
   border-radius: 10%;
   padding: 10px;
+}
+
+.newinfo{
+  margin-top: 5px;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  color: black;
+  border-radius: 10%;
+  padding: 10px;
+}
+.centre{
+  text-align: center;
+  margin: 3px;
 }

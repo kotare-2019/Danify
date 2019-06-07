@@ -32,10 +32,12 @@
     </div>
 </form>
 
-<form>
+<form class='form' action='/edit/{{id}}' method='post'>
     <label for='new-category' class='form-key'>
-        New category:
-        <input type='text' name='new-category' value=''><input type='text' name='description' value=''>
+        <div class="newinfo">
+        <p class="centre">New category:</p>
+        <input type='text' name='new-category-key' value=''><input type='text' name='new-category-value' value=''>
         <input type='submit' name='' value='Submit'>
+        </div>
     </label>
 </form>

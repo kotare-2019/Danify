@@ -1,45 +1,42 @@
-<form class='form' action='/edit/{{id}}' method='post'>
-    <img class ='img-circle' src='{{image}}' alt='{{name}}'>
+<form class='form' action='/add' method='post'>
     <div class="danput">
+    <label for='image' class='form-key'>
+        Image:
+        <input type='text' name='image' value='add an image url'>
+    </label>
     <label for='name' class='form-key'>
         Name:
-        <input type='text' name='name' value='{{name}}'>
+        <input type='text' name='name' value='add your name!'>
     </label>
     <label for='quote' class='form-key'>
         Quote:
-        <input type='text' name='quote' value='{{quote}}'>
+        <input type='text' name='quote' value='add your quote!'>
     </label>
     <label for='song' class='form-key'>
         Song:
-        <input type='text' name='song' value='{{song}}'>
+        <input type='text' name='song' value='add your favourite song!'>
     </label>
     <label for='eye-color' class='form-key'>
         Eye-color:
-        <input type='text' name='eye-color' value='{{eye-color}}'>
+        <input type='text' name='eye-color' value="what's your eye-color?">
     </label>
     <label for='age' class='form-key'>
         Age:
-        <input type='text' name='age' value='{{age}}'>
+        <input type='text' name='age' value='how old are you?'>
     </label>
     <label for='star-sign' class='form-key'>
         Star-sign:
-        <input type='text' name='star-sign' value='{{star-sign}}'>
+        <input type='text' name='star-sign' value="what's your star-sign?">
     </label>
-
-    <input type='hidden' name='image' value='{{image}}'>
 
     <input type='submit' name='' value='Submit'>
     </div>
 </form>
 
-<form class='form' action='/edit/{{id}}' method='post'>
+<form class='form' action='/add' method='post'>
     <label for='new-category' class='form-key'>
         New category:
         <input type='text' name='new-category-key' value=''><input type='text' name='new-category-value' value=''>
         <input type='submit' name='' value='Submit'>
     </label>
 </form>
-
-{{!-- <form class='form' action='/edit/{{id}}' method='post'>
-    <button type='button' name='delete'>Delete this Dan</button>
-</form> --}}

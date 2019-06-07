@@ -1,5 +1,6 @@
 <form class='form' action='/edit/{{id}}' method='post'>
     <img class ='img-circle' src='{{image}}' alt='{{name}}'>
+    <div class="danput">
     <label for='name' class='form-key'>
         Name:
         <input type='text' name='name' value='{{name}}'>
@@ -28,4 +29,19 @@
     <input type='hidden' name='image' value='{{image}}'>
 
     <input type='submit' name='' value='Submit'>
+    </div>
 </form>
+
+<form class='form' action='/edit/{{id}}' method='post'>
+    <label for='new-category' class='form-key'>
+        <div class="newinfo">
+        New category:
+        <input type='text' name='new-category-key' value=''><input type='text' name='new-category-value' value=''>
+        <input type='submit' name='' value='Submit'>
+        </div>
+    </label>
+</form>
+
+{{!-- <form class='form' action='/edit/{{id}}' method='post'>
+    <button type='button' name='delete'>Delete this Dan</button>
+</form> --}}

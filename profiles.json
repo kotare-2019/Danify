@@ -8,8 +8,7 @@
       "eye-color": "Blue",
       "age": "19",
       "star-sign": "Leo",
-      "image": "/DanBezant.png",
-      "_locals": {},
+      "image": "/DanBezant.png"
     },
     {
       "id": 2,

@@ -22,7 +22,10 @@
     "express-handlebars": "^3.1.0",
     "handlebars": "^4.1.2",
     "heroku": "^7.0.9",
-    "i": "^0.3.6",
+    "i": "^0.3.6"
+    
+  },
+  "devDependencies": {
     "jest": "^24.7.1",
     "nodemon": "^1.18.10"
   }

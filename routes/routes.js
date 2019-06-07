@@ -40,6 +40,7 @@ profileRoute.post('/edit/:id', (req, res) => {
     req.body.id = req.params.id;
     for (let i = 0; i < profiles.users.length; i++) {
         if (profiles.users[i].id == req.params.id) {
+            console.log(profiles.users[i])
             profiles.users[i] = req.body;
             
         }  

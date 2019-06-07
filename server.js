@@ -23,7 +23,6 @@ server.get('/', (req, res) =>{
 server.engine('hbs', hbs({
   defaultLayout: 'main',
   extname: '.hbs'
-  // partialsDir: __dirname + '/views/partials/'
 }))
 
 

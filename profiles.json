@@ -1,15 +1,15 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Dan Bez (aka Pineapples)",
       "quote": "I finger the G string the most.",
       "song": "I'm Sexy and I Know it",
       "eye-color": "Blue",
       "age": "19",
       "star-sign": "Leo",
-      "image": "/DanBezant.png"
-      
+      "image": "/DanBezant.png",
+      "_locals": {},
     },
     {
       "id": 2,
@@ -19,7 +19,8 @@
       "song": "Yesterday by Atmosphere",
       "eye-color": "Pink",
       "age": "22 and a half",
-      "star-sign": "Pisces"
+      "star-sign": "Pisces",
+      "Artgref": "adwdwa"
     },
     {
       "id": 3,
@@ -29,7 +30,9 @@
       "song": "Not really a song kind of a guy myself",
       "eye-color": "Hazel",
       "age": "16",
-      "star-sign": "Taurus"
+      "star-sign": "Taurus",
+      "_locals": {},
+      "Artgref": "adwdwa"
     },
     {
       "id": 4,
@@ -39,8 +42,8 @@
       "song": "Mmm Mmm Mmm Mmm by Crash Test Dummies",
       "eye-color": "Light blue",
       "age": "30",
-      "star-sign": "Cancer"
+      "star-sign": "Cancer",
+      "Artgref": "adwdwa"
     }
-  ],
-  "_locals": {}
+  ]
 }

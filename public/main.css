@@ -1,0 +1,146 @@
+body {
+  background-color: rgb(223, 198, 245);
+  font-family: 'Kalam', cursive;
+  background-image: url(hearts.png);
+  background-size: 100%;
+  color: white;
+  font-family: 'Kalam', cursive;
+  
+  
+}
+
+h1 {
+  text-align: center;
+  font-size: 90px;
+  margin: 0px;
+  background-color: rgb(160, 73, 160);
+}
+
+h2 {
+  font-size: 40px;
+  margin: 0px;
+}
+h3 {
+  font-size: 39px;
+  margin: 0px;
+}
+.dan-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+  padding-top: 80px
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.img-dan {
+  border: solid;
+  box-shadow: 5px 10px;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 250px;
+  height: 250px;
+  color: purple;
+}
+
+.dans {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+}
+
+.Background{
+  margin: 20px;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  border-radius: 10%;
+  padding: 10px;
+  
+}
+.nav{
+  margin: 5px;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  border-radius: 10%;
+  padding: 5px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+}
+
+.img-circle{
+  border: solid;
+  box-shadow: 5px 10px;
+  border-radius: 50%;
+  object-fit: cover;
+  width: 250px;
+  height: 250px;
+  color: purple;
+}
+
+.danput {
+  margin-top: 20px;
+  margin-bottom: 5px; 
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  color: black;
+  border-radius: 10%;
+  padding: 10px;
+}
+
+.newinfo{
+  margin-top: 5px;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  color: black;
+  border-radius: 10%;
+  padding: 10px;
+}
+.centre{
+  text-align: center;
+  margin: 3px;
+}
+
+.newDan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+}
+button {
+  border: solid;
+  border-width: 3px;
+  padding: 0px;
+  background-color: bisque; 
+  width: 100px;
+  height: 50px;
+  border-radius: 20%;
+  font-family: 'Kalam', cursive;
+  font-weight: bold;
+  font-size: 25px;
+  box-shadow: 5px 10px;
+
+}

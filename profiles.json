@@ -1,44 +1,48 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Dan",
-      "image": "",
-      "quote": "i finger the G string the most",
-      "song": "",
-      "eye-color": "blue",
+      "id": "1",
+      "name": "Dan Bez (aka Pineapples)",
+      "quote": "I finger the G string the most.",
+      "song": "I'm Sexy and I Know it",
+      "eye-color": "Blue",
       "age": "19",
-      "star-sign": "leo"
+      "star-sign": "Leo",
+      "image": "/DanBezant.png"
     },
     {
       "id": 2,
-      "name": "Dan",
-      "image": "",
-      "quote": "",
-      "song": "",
-      "eye-color": "",
-      "age": "",
-      "star-sign": ""
+      "name": "Dan Bridewell (aka Our Dan)",
+      "image": "/Dan Bridewell.png",
+      "quote": "That shit makes my throat hurt",
+      "song": "Yesterday by Atmosphere",
+      "eye-color": "Pink",
+      "age": "22 and a half",
+      "star-sign": "Pisces",
+      "Artgref": "adwdwa"
     },
     {
       "id": 3,
-      "name": "Dan",
-      "image": "",
-      "quote": "",
-      "song": "",
-      "eye-color": "",
-      "age": "",
-      "star-sign": ""
+      "name": "Dan Rhodes (aka Big Dan)",
+      "image": "/Daniel Rhodes.png",
+      "quote": "That shit makes my throat hurt",
+      "song": "Not really a song kind of a guy myself",
+      "eye-color": "Hazel",
+      "age": "16",
+      "star-sign": "Taurus",
+      "_locals": {},
+      "Artgref": "adwdwa"
     },
     {
       "id": 4,
-      "name": "Dan",
-      "image": "",
-      "quote": "",
-      "song": "",
-      "eye-color": "",
-      "age": "",
-      "star-sign": ""
+      "name": "Dan Van (aka Glasses)",
+      "image": "/Daniel van Ammers.png",
+      "quote": "I beat the other Dans 3-3 at Smash Bros",
+      "song": "Mmm Mmm Mmm Mmm by Crash Test Dummies",
+      "eye-color": "Light blue",
+      "age": "30",
+      "star-sign": "Cancer",
+      "Artgref": "adwdwa"
     }
   ]
 }

@@ -20,7 +20,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.1.0",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.3.0",
     "heroku": "^7.0.9",
     "i": "^0.3.6"
     

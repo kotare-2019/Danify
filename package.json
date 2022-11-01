@@ -21,7 +21,7 @@
     "express": "^4.16.4",
     "express-handlebars": "^3.1.0",
     "handlebars": "^4.1.2",
-    "heroku": "^7.0.9",
+    "heroku": "^7.65.0",
     "i": "^0.3.6"
     
   },
